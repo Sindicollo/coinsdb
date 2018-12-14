@@ -1,11 +1,11 @@
 {
-  "name": "MERN-boilerplate",
+  "name": "coins-db",
   "version": "1.0.0",
-  "description": "MERN stack project boilerplate",
-  "author": "Eugene Cheung",
+  "description": "personal coins db",
+  "author": "Sindicollo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arkon/MERN-boilerplate.git"
+    "url": "git+https://github.com/sindicollo/coinsdb.git"
   },
   "license": "MIT",
   "private": true,
